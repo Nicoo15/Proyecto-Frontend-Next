@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "María López",
+      "email": "maria.lopez@example.com",
+      "password": "password1",
+      "age": 25,
+      "city": "Madrid",
+      "interests": [
+        "Lectura",
+        "Cine"
+      ],
+      "receiveOffers": true
+    },
+    {
+      "id": 2,
+      "name": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "password": "password2",
+      "age": 30,
+      "city": "Barcelona",
+      "interests": [
+        "Tecnología",
+        "Viajes"
+      ],
+      "receiveOffers": false
+    },
+    {
+      "id": 3,
+      "name": "Lucía García",
+      "email": "lucia.garcia@example.com",
+      "password": "password3",
+      "age": 35,
+      "city": "Valencia",
+      "interests": [
+        "Cocina",
+        "Deportes"
+      ],
+      "receiveOffers": true
+    },
+    {
+      "id": 4,
+      "name": "Nicolás Montejano",
+      "email": "nico.montejano@example.com",
+      "password": "password4",
+      "age": 22,
+      "city": "Sevilla",
+      "interests": [
+        "Música",
+        "Cine"
+      ],
+      "receiveOffers": false
+    },
+    {
+      "id": 5,
+      "name": "Laura Fernández",
+      "email": "laura.fernandez@example.com",
+      "password": "password5",
+      "age": 28,
+      "city": "Bilbao",
+      "interests": [
+        "Arte",
+        "Venta de libros"
+      ],
+      "receiveOffers": true
+    }
+  ]
+  

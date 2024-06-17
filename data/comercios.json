@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Librería Central",
+    "cif": "B12345678",
+    "address": "Calle Mayor, 1",
+    "email": "info@libreriacentral.com",
+    "phone": "912345678",
+    "activity": "Venta de libros",
+    "title": "Librería Central",
+    "summary": "La mejor librería del centro de la ciudad.",
+    "text": "Ofrecemos una amplia gama de libros de todos los géneros.",
+    "scoring": 3,
+    "puntuacion": 90,
+    "password": "libros123",
+    "reseñas": [
+      {
+        "user": "Ana Pérez",
+        "comment": "¡Excelente servicio!",
+        "rating": 5
+      },
+      {
+        "user": "Luis Gómez",
+        "comment": "Muy buen catálogo de libros.",
+        "rating": 4
+      },
+      {
+        "user": "Nicolás Montejano",
+        "comment": "Me encanta! Es sin duda la mejor libreria de la ciudad y tiene mucha variedad!",
+        "rating": 0
+      }
+    ],
+    "city": "Madrid",
+    "numberOfRatings": 3
+  },
+  {
+    "id": 2,
+    "name": "TechWorld",
+    "cif": "B87654321",
+    "address": "Avenida de la Tecnología, 45",
+    "email": "contacto@techworld.com",
+    "phone": "987654321",
+    "activity": "Venta de productos electrónicos",
+    "title": "TechWorld",
+    "summary": "Todo en tecnología y gadgets.",
+    "text": "Los últimos avances tecnológicos al mejor precio.",
+    "scoring": 4,
+    "puntuacion": 80,
+    "password": "techworld2021",
+    "reseñas": [
+      {
+        "user": "Carlos Fernández",
+        "comment": "Buena variedad de productos.",
+        "rating": 4
+      },
+      {
+        "user": "Marta López",
+        "comment": "Atención al cliente excelente.",
+        "rating": 5
+      }
+    ],
+    "city": "Barcelona",
+    "numberOfRatings": 2
+  },
+  {
+    "id": 3,
+    "name": "Café del Arte",
+    "cif": "B11223344",
+    "address": "Plaza del Arte, 7",
+    "email": "cafe@delarte.com",
+    "phone": "923456789",
+    "activity": "Cafetería",
+    "title": "Café del Arte",
+    "summary": "El mejor café en un entorno artístico.",
+    "text": "Disfruta de nuestros cafés y pasteles en un ambiente único.",
+    "scoring": 4.8,
+    "puntuacion": 96,
+    "password": "cafearte",
+    "reseñas": [
+      {
+        "user": "Lucía Martínez",
+        "comment": "Café delicioso y ambiente acogedor.",
+        "rating": 5
+      },
+      {
+        "user": "Jorge Ramírez",
+        "comment": "Perfecto para una tarde tranquila.",
+        "rating": 5
+      }
+    ],
+    "city": "Valencia",
+    "numberOfRatings": 2
+  },
+  {
+    "id": 4,
+    "name": "Moda Chic",
+    "cif": "B55667788",
+    "address": "Calle de la Moda, 22",
+    "email": "ventas@modachic.com",
+    "phone": "934567890",
+    "activity": "Deportes",
+    "title": "Moda Chic",
+    "summary": "Últimas tendencias en moda para todos.",
+    "text": "Encuentra tu estilo con nuestras colecciones.",
+    "scoring": 4.2,
+    "puntuacion": 84,
+    "password": "modachic2021",
+    "reseñas": [
+      {
+        "user": "Sandra Ortiz",
+        "comment": "Ropa de muy buena calidad.",
+        "rating": 4
+      },
+      {
+        "user": "Raúl García",
+        "comment": "Precios un poco altos pero vale la pena.",
+        "rating": 4
+      }
+    ],
+    "city": "Sevilla",
+    "numberOfRatings": 2
+  },
+  {
+    "id": 5,
+    "name": "Juguetes y Más",
+    "cif": "B99887766",
+    "address": "Avenida de los Niños, 15",
+    "email": "info@juguetesymas.com",
+    "phone": "912345123",
+    "activity": "Tienda de juguetes",
+    "title": "Juguetes y Más",
+    "summary": "Diversión para todas las edades.",
+    "text": "Tenemos los juguetes más divertidos y educativos.",
+    "scoring": 4.5,
+    "puntuacion": 90,
+    "password": "juguetes2021",
+    "reseñas": [
+      {
+        "user": "Pedro Sánchez",
+        "comment": "Gran variedad de juguetes.",
+        "rating": 5
+      },
+      {
+        "user": "Elena Ruiz",
+        "comment": "Mis hijos adoran esta tienda.",
+        "rating": 4
+      }
+    ],
+    "city": "Bilbao",
+    "numberOfRatings": 2
+  }
+]
