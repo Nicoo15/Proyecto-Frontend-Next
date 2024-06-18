@@ -49,7 +49,7 @@ export default function UserLogin() {
 
   return (
     <div className="container">
-      <h2>Usuario Login</h2> 
+      <h2>Usuario Login</h2>
       <form onSubmit={handleLogin}>
         <div className="mb-3">
           <label>Email</label>

@@ -22,7 +22,7 @@ export default function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light shadow">
       <div className="container-fluid">
-        <Link href="/" className="navbar-brand">COMMERCE</Link>
+        <Link href="/" className="navbar-brand color-principal">COMMERCE</Link>
         <button
           className="navbar-toggler"
           type="button"

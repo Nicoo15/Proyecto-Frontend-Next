@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import React, { useEffect, useState } from "react";
-import NavBar from "@/components/NavBar";
+
 
 export default function HomePage() {
   const router = useRouter();
@@ -46,11 +46,11 @@ export default function HomePage() {
 
   return (
     <div className="container">
-      <h1 className="my-5 text-center">Bienvenido a la Aplicación de COMMERCE</h1>
+      <h1 className="my-5 text-center fw-bold display-4">Bienvenido a la Aplicación de COMMERCE</h1>
       <div className="mb-4">
         <input
           type="text"
-          className="form-control"
+          className  ="form-control"
           placeholder="Buscar comercios por nombre, ciudad o actividad"
           value={searchTerm}
           onChange={handleSearch}

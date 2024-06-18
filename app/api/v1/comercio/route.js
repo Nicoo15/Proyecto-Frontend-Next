@@ -122,8 +122,8 @@ export async function POST(req) {
 
     // Generar un nuevo ID
     const newId = businesses.length ? Math.max(...businesses.map(b => b.id)) + 1 : 1;
-    const businessWithId = { 
-      ...newBusiness, 
+    const businessWithId = {
+      ...newBusiness,
       id: newId,
       title: "",
       summary: "",

@@ -28,7 +28,7 @@ export default function EditBusiness() {
           address: data.address,
           email: data.email,
           phone: data.phone,
-          password: data.password || '' 
+          password: data.password || ''
         });
       } catch (error) {
         console.error('Error fetching business:', error);

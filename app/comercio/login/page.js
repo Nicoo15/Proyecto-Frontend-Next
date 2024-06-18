@@ -48,7 +48,7 @@ export default function CommerceLogin() {
 
   return (
     <div className="container">
-      <h2>Comercio Login</h2> 
+      <h2>Comercio Login</h2>
       <form onSubmit={handleLogin}>
         <div className="mb-3">
           <label>Email</label>
